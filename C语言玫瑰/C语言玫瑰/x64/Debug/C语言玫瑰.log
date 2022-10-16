@@ -1,0 +1,17 @@
+﻿  C语言玫瑰.cpp
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(26,36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(33,36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,19): warning C4838: 从“double”转换到“float”需要收缩转换
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,27): warning C4838: 从“double”转换到“float”需要收缩转换
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,43): warning C4838: 从“double”转换到“float”需要收缩转换
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,51): warning C4838: 从“double”转换到“float”需要收缩转换
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(43,51): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(82,42): warning C4305: “参数”: 从“double”到“float”截断
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(104,23): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(116,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(122,30): warning C4838: 从“double”转换到“float”需要收缩转换
+E:\C语言玫瑰\C语言玫瑰\C语言玫瑰.cpp(122,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  C语言玫瑰.vcxproj -> E:\C语言玫瑰\x64\Debug\C语言玫瑰.exe
